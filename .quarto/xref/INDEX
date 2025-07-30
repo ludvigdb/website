@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "667ba2bc"
+  },
+  "about.qmd": {
+    "about.html": "f7184450"
+  },
+  "research.qmd": {
+    "research.html": "fd64559b"
+  },
+  "cv.qmd": {
+    "cv.html": "580c3e55"
+  },
+  "posts/2025-06-16-welcome.qmd": {
+    "2025-06-16-welcome.html": "c3008bd7"
+  },
+  "posts/posts/2025-06-16-welcome/index.qmd": {
+    "index.html": "78bf7ed9"
+  },
+  "posts/2025-06-16-welcome/index.qmd": {
+    "index.html": "47ff25ea"
+  },
+  "posts.qmd": {
+    "posts.html": "f6a54f10"
+  },
+  "posts/2025-06-24-Bjørndaletal.(2025)/index.qmd": {
+    "index.html": "ec058c14"
+  }
+}

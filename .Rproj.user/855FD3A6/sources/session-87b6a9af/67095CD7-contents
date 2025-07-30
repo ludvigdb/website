@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Ludvig Daae Bjørndal (Cand.Psychol., PhD)"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Newsletter"
+        href: https://ludvigdb.substack.com
+        target: blank
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+editor: visual
+
