@@ -1,8 +1,0 @@
----
-title: "Blog"
-page-layout: full
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
----
