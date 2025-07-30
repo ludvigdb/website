@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ludvig Daae Bjørndal (Cand.Psychol., PhD)"
+  site-url: "https://ludvigdb.github.io/website"
   navbar:
     left:
       - text: "Home"
