@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/OneDrive-UniversitetetiOslo/my-website/cv.qmd",
     "project_path": "cv.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3129176748",
     "contents": "",
     "dirty": false,
     "created": 1750430015825.0,
@@ -17,15 +17,15 @@
         "cursorPosition": "0,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
-        "rmdVisualModeLocation": "4962:1324.4444580078125",
+        "rmdVisualModeLocation": "5049:1324.4444580078125",
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1753884305,
+    "lastKnownWriteTime": 1753884477,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753884305220,
+    "last_content_update": 1753884478011,
     "read_only": false,
     "read_only_alternatives": []
 }
